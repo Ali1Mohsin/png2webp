@@ -62,11 +62,11 @@ The generated file will be located in the `dist/` folder.
 
 3. **Configure**:
 
-* Slide "压缩质量" (Quality) to your desired level (integer only).
+   * Slide "压缩质量" (Quality) to your desired level (integer only).
 
-* Enter a "文件名后缀" (Suffix) if you wish to distinguish the new files.
+   * Enter a "文件名后缀" (Suffix) if you wish to distinguish the new files.
 
-* Enable "无损模式" (Lossless Mode) for pixel-perfect conversion (note: memory-intensive for massive files).
+   * Enable "无损模式" (Lossless Mode) for pixel-perfect conversion (note: memory-intensive for massive files).
 
 4. **Convert**: Click the "Start Conversion Task" button.
 
