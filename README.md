@@ -1,6 +1,8 @@
 # png2webp (v1.0)
 
-A lightweight, professional desktop application designed for efficient batch conversion of PNG images to the WebP format. Optimized to handle high-resolution graphics that typically crash standard converters.
+A lightweightdesktop application designed for efficient batch conversion of PNG images to the WebP format. 
+
+一款轻量级的桌面应用程序，专为高效批量将 PNG 图像批量转换为 WebP 格式而设计。
 
 
 
